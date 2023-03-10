@@ -1,6 +1,8 @@
 # Module_11_Challenge
 Note Taker
 
+![note taker picture](https://user-images.githubusercontent.com/110567243/224242001-f3db6f9c-acca-41e7-810c-8a835319262d.PNG)
+
 ## Table of Contents
 * [Description](#description)  
 * [Installation](#installation)  
